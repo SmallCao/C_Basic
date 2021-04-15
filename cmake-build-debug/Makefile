@@ -129,17 +129,71 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named C_s
+# Target rules for targets named C_Basic
 
 # Build rule for target.
-C_s: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 C_s
-.PHONY : C_s
+C_Basic: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 C_Basic
+.PHONY : C_Basic
 
 # fast build rule for target.
-C_s/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\C_s.dir\build.make CMakeFiles/C_s.dir/build
-.PHONY : C_s/fast
+C_Basic/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C_Basic.dir\build.make CMakeFiles/C_Basic.dir/build
+.PHONY : C_Basic/fast
+
+arraym.obj: arraym.c.obj
+
+.PHONY : arraym.obj
+
+# target to build an object file
+arraym.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C_Basic.dir\build.make CMakeFiles/C_Basic.dir/arraym.c.obj
+.PHONY : arraym.c.obj
+
+arraym.i: arraym.c.i
+
+.PHONY : arraym.i
+
+# target to preprocess a source file
+arraym.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C_Basic.dir\build.make CMakeFiles/C_Basic.dir/arraym.c.i
+.PHONY : arraym.c.i
+
+arraym.s: arraym.c.s
+
+.PHONY : arraym.s
+
+# target to generate assembly for a file
+arraym.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C_Basic.dir\build.make CMakeFiles/C_Basic.dir/arraym.c.s
+.PHONY : arraym.c.s
+
+hello.obj: hello.c.obj
+
+.PHONY : hello.obj
+
+# target to build an object file
+hello.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C_Basic.dir\build.make CMakeFiles/C_Basic.dir/hello.c.obj
+.PHONY : hello.c.obj
+
+hello.i: hello.c.i
+
+.PHONY : hello.i
+
+# target to preprocess a source file
+hello.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C_Basic.dir\build.make CMakeFiles/C_Basic.dir/hello.c.i
+.PHONY : hello.c.i
+
+hello.s: hello.c.s
+
+.PHONY : hello.s
+
+# target to generate assembly for a file
+hello.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C_Basic.dir\build.make CMakeFiles/C_Basic.dir/hello.c.s
+.PHONY : hello.c.s
 
 main.obj: main.c.obj
 
@@ -147,7 +201,7 @@ main.obj: main.c.obj
 
 # target to build an object file
 main.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\C_s.dir\build.make CMakeFiles/C_s.dir/main.c.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C_Basic.dir\build.make CMakeFiles/C_Basic.dir/main.c.obj
 .PHONY : main.c.obj
 
 main.i: main.c.i
@@ -156,7 +210,7 @@ main.i: main.c.i
 
 # target to preprocess a source file
 main.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\C_s.dir\build.make CMakeFiles/C_s.dir/main.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C_Basic.dir\build.make CMakeFiles/C_Basic.dir/main.c.i
 .PHONY : main.c.i
 
 main.s: main.c.s
@@ -165,7 +219,7 @@ main.s: main.c.s
 
 # target to generate assembly for a file
 main.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\C_s.dir\build.make CMakeFiles/C_s.dir/main.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\C_Basic.dir\build.make CMakeFiles/C_Basic.dir/main.c.s
 .PHONY : main.c.s
 
 # Help Target
@@ -176,7 +230,13 @@ help:
 	@echo ... depend
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... C_s
+	@echo ... C_Basic
+	@echo ... arraym.obj
+	@echo ... arraym.i
+	@echo ... arraym.s
+	@echo ... hello.obj
+	@echo ... hello.i
+	@echo ... hello.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

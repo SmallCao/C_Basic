@@ -1,0 +1,108 @@
+[2020-09-07 12:29:18.476 +08:00] [ONSClient4CPP] [---I---] [thread 12444] Create Consumer OK, InstanceId:0, ConsumerID:, NameServer:http://MQ_INST_1429552582856959_BXPshQXg.mq-internet-access.mq-internet.aliyuncs.com:80, Trace:true, MessageModel:CLUSTERING
+[2020-09-07 12:29:18.476 +08:00] [ONSClient4CPP] [---I---] [thread 12444] Subscribe OK, InstanceID:0, Topic:BASE, SubExpression:*
+[2020-09-07 12:29:19.001 +08:00] [ONSClient4CPP] [---I---] [thread 12444] Start Consumer instance 0 OK
+[2020-09-08 18:36:09.576 +08:00] [ONSClient4CPP] [---I---] [thread 4625] Create Consumer OK, InstanceId:0, ConsumerID:, NameServer:http://MQ_INST_1429552582856959_BXPshQXg.mq-internet-access.mq-internet.aliyuncs.com:80, Trace:true, MessageModel:CLUSTERING
+[2020-09-08 18:36:09.577 +08:00] [ONSClient4CPP] [---I---] [thread 4625] Subscribe OK, InstanceID:0, Topic:BASE, SubExpression:*
+[2020-09-08 18:36:10.167 +08:00] [ONSClient4CPP] [---I---] [thread 4625] Start Consumer instance 0 OK
+[2020-09-09 08:43:05.628 +08:00] [ONSClient4CPP] [---I---] [thread 14223] Create Consumer OK, InstanceId:0, ConsumerID:, NameServer:http://MQ_INST_1429552582856959_BXPshQXg.mq-internet-access.mq-internet.aliyuncs.com:80, Trace:true, MessageModel:CLUSTERING
+[2020-09-09 08:43:05.629 +08:00] [ONSClient4CPP] [---I---] [thread 14223] Subscribe OK, InstanceID:0, Topic:BASE, SubExpression:*
+[2020-09-09 08:43:06.173 +08:00] [ONSClient4CPP] [---I---] [thread 14223] Start Consumer instance 0 OK
+[2020-09-10 19:00:11.859 +08:00] [ONSClient4CPP] [---I---] [thread 18938] Create Consumer OK, InstanceId:0, ConsumerID:, NameServer:http://MQ_INST_1429552582856959_BXPshQXg.mq-internet-access.mq-internet.aliyuncs.com:80, Trace:true, MessageModel:CLUSTERING
+[2020-09-10 19:00:11.860 +08:00] [ONSClient4CPP] [---I---] [thread 18938] Subscribe OK, InstanceID:0, Topic:BASE, SubExpression:*
+[2020-09-10 19:00:12.377 +08:00] [ONSClient4CPP] [---I---] [thread 18938] Start Consumer instance 0 OK
+[2020-09-14 14:47:24.835 +08:00] [ONSClient4CPP] [---I---] [thread 32253] Create Consumer OK, InstanceId:0, ConsumerID:, NameServer:http://MQ_INST_1429552582856959_BXPshQXg.mq-internet-access.mq-internet.aliyuncs.com:80, Trace:true, MessageModel:CLUSTERING
+[2020-09-14 14:47:24.835 +08:00] [ONSClient4CPP] [---I---] [thread 32253] Subscribe OK, InstanceID:0, Topic:BASE, SubExpression:*
+[2020-09-14 14:47:25.284 +08:00] [ONSClient4CPP] [---I---] [thread 32253] Start Consumer instance 0 OK
+[2020-09-14 14:52:44.129 +08:00] [ONSClient4CPP] [---I---] [thread 32545] Create Consumer OK, InstanceId:0, ConsumerID:, NameServer:http://MQ_INST_1429552582856959_BXPshQXg.mq-internet-access.mq-internet.aliyuncs.com:80, Trace:true, MessageModel:CLUSTERING
+[2020-09-14 14:52:44.129 +08:00] [ONSClient4CPP] [---I---] [thread 32545] Subscribe OK, InstanceID:0, Topic:BASE, SubExpression:*
+[2020-09-14 14:52:44.669 +08:00] [ONSClient4CPP] [---I---] [thread 32545] Start Consumer instance 0 OK
+[2020-09-14 14:56:14.705 +08:00] [ONSClient4CPP] [---I---] [thread 32753] Create Consumer OK, InstanceId:0, ConsumerID:, NameServer:http://MQ_INST_1429552582856959_BXPshQXg.mq-internet-access.mq-internet.aliyuncs.com:80, Trace:true, MessageModel:CLUSTERING
+[2020-09-14 14:56:14.705 +08:00] [ONSClient4CPP] [---I---] [thread 32753] Subscribe OK, InstanceID:0, Topic:BASE, SubExpression:*
+[2020-09-14 14:56:15.144 +08:00] [ONSClient4CPP] [---I---] [thread 32753] Start Consumer instance 0 OK
+[2020-09-15 11:54:46.691 +08:00] [ONSClient4CPP] [---I---] [thread 30293] Create Consumer OK, InstanceId:0, ConsumerID:, NameServer:http://MQ_INST_1429552582856959_BXPshQXg.mq-internet-access.mq-internet.aliyuncs.com:80, Trace:true, MessageModel:CLUSTERING
+[2020-09-15 11:54:46.692 +08:00] [ONSClient4CPP] [---I---] [thread 30293] Subscribe OK, InstanceID:0, Topic:BASE, SubExpression:*
+[2020-09-15 11:54:47.245 +08:00] [ONSClient4CPP] [---I---] [thread 30293] Start Consumer instance 0 OK
+[2020-09-21 16:43:34.753 +08:00] [ONSClient4CPP] [---I---] [thread 19229] Create Consumer OK, InstanceId:0, ConsumerID:, NameServer:http://MQ_INST_1429552582856959_BXPshQXg.mq-internet-access.mq-internet.aliyuncs.com:80, Trace:true, MessageModel:CLUSTERING
+[2020-09-21 16:43:34.753 +08:00] [ONSClient4CPP] [---I---] [thread 19229] Subscribe OK, InstanceID:0, Topic:BASE, SubExpression:*
+[2020-09-21 16:43:35.275 +08:00] [ONSClient4CPP] [---I---] [thread 19229] Start Consumer instance 0 OK
+[2020-09-21 17:10:03.441 +08:00] [ONSClient4CPP] [---I---] [thread 20579] Create Consumer OK, InstanceId:0, ConsumerID:, NameServer:http://MQ_INST_1429552582856959_BXPshQXg.mq-internet-access.mq-internet.aliyuncs.com:80, Trace:true, MessageModel:CLUSTERING
+[2020-09-21 17:10:03.441 +08:00] [ONSClient4CPP] [---I---] [thread 20579] Subscribe OK, InstanceID:0, Topic:BASE, SubExpression:*
+[2020-09-21 17:10:03.937 +08:00] [ONSClient4CPP] [---I---] [thread 20579] Start Consumer instance 0 OK
+[2020-09-27 10:42:38.391 +08:00] [ONSClient4CPP] [---I---] [thread 7959] Create Consumer OK, InstanceId:0, ConsumerID:, NameServer:http://MQ_INST_1429552582856959_BXPshQXg.mq-internet-access.mq-internet.aliyuncs.com:80, Trace:true, MessageModel:CLUSTERING
+[2020-09-27 10:42:38.391 +08:00] [ONSClient4CPP] [---I---] [thread 7959] Subscribe OK, InstanceID:0, Topic:BASE, SubExpression:*
+[2020-09-27 10:42:38.938 +08:00] [ONSClient4CPP] [---I---] [thread 7959] Start Consumer instance 0 OK
+[2020-09-27 11:19:27.388 +08:00] [ONSClient4CPP] [---I---] [thread 9786] Create Consumer OK, InstanceId:0, ConsumerID:, NameServer:http://MQ_INST_1429552582856959_BXPshQXg.mq-internet-access.mq-internet.aliyuncs.com:80, Trace:true, MessageModel:CLUSTERING
+[2020-09-27 11:19:27.388 +08:00] [ONSClient4CPP] [---I---] [thread 9786] Subscribe OK, InstanceID:0, Topic:BASE, SubExpression:*
+[2020-09-27 11:19:27.865 +08:00] [ONSClient4CPP] [---I---] [thread 9786] Start Consumer instance 0 OK
+[2020-09-27 11:21:07.735 +08:00] [ONSClient4CPP] [---I---] [thread 9900] Create Consumer OK, InstanceId:0, ConsumerID:, NameServer:http://MQ_INST_1429552582856959_BXPshQXg.mq-internet-access.mq-internet.aliyuncs.com:80, Trace:true, MessageModel:CLUSTERING
+[2020-09-27 11:21:07.735 +08:00] [ONSClient4CPP] [---I---] [thread 9900] Subscribe OK, InstanceID:0, Topic:BASE, SubExpression:*
+[2020-09-27 11:21:08.265 +08:00] [ONSClient4CPP] [---I---] [thread 9900] Start Consumer instance 0 OK
+[2020-09-28 11:36:42.043 +08:00] [ONSClient4CPP] [---I---] [thread 17142] Create Consumer OK, InstanceId:0, ConsumerID:, NameServer:http://MQ_INST_1429552582856959_BXPshQXg.mq-internet-access.mq-internet.aliyuncs.com:80, Trace:true, MessageModel:CLUSTERING
+[2020-09-28 11:36:42.044 +08:00] [ONSClient4CPP] [---I---] [thread 17142] Subscribe OK, InstanceID:0, Topic:BASE, SubExpression:*
+[2020-09-28 11:36:42.575 +08:00] [ONSClient4CPP] [---I---] [thread 17142] Start Consumer instance 0 OK
+[2020-09-28 13:21:32.305 +08:00] [ONSClient4CPP] [---I---] [thread 22365] Create Consumer OK, InstanceId:0, ConsumerID:, NameServer:http://MQ_INST_1429552582856959_BXPshQXg.mq-internet-access.mq-internet.aliyuncs.com:80, Trace:true, MessageModel:CLUSTERING
+[2020-09-28 13:21:32.305 +08:00] [ONSClient4CPP] [---I---] [thread 22365] Subscribe OK, InstanceID:0, Topic:BASE, SubExpression:*
+[2020-09-28 13:21:32.833 +08:00] [ONSClient4CPP] [---I---] [thread 22365] Start Consumer instance 0 OK
+[2020-10-12 17:15:54.274 +08:00] [ONSClient4CPP] [---I---] [thread 27682] Create Consumer OK, InstanceId:0, ConsumerID:, NameServer:http://MQ_INST_1429552582856959_BXPshQXg.mq-internet-access.mq-internet.aliyuncs.com:80, Trace:true, MessageModel:CLUSTERING
+[2020-10-12 17:15:54.274 +08:00] [ONSClient4CPP] [---I---] [thread 27682] Subscribe OK, InstanceID:0, Topic:BASE, SubExpression:*
+[2020-10-12 17:15:54.848 +08:00] [ONSClient4CPP] [---I---] [thread 27682] Start Consumer instance 0 OK
+[2020-10-13 07:52:07.924 +08:00] [ONSClient4CPP] [---I---] [thread 6442] Create Consumer OK, InstanceId:0, ConsumerID:, NameServer:http://MQ_INST_1429552582856959_BXPshQXg.mq-internet-access.mq-internet.aliyuncs.com:80, Trace:true, MessageModel:CLUSTERING
+[2020-10-13 07:52:07.924 +08:00] [ONSClient4CPP] [---I---] [thread 6442] Subscribe OK, InstanceID:0, Topic:BASE, SubExpression:*
+[2020-10-13 07:52:08.510 +08:00] [ONSClient4CPP] [---I---] [thread 6442] Start Consumer instance 0 OK
+[2020-10-13 14:17:16.802 +08:00] [ONSClient4CPP] [---I---] [thread 25976] Create Consumer OK, InstanceId:0, ConsumerID:, NameServer:http://MQ_INST_1429552582856959_BXPshQXg.mq-internet-access.mq-internet.aliyuncs.com:80, Trace:true, MessageModel:CLUSTERING
+[2020-10-13 14:17:16.802 +08:00] [ONSClient4CPP] [---I---] [thread 25976] Subscribe OK, InstanceID:0, Topic:BASE, SubExpression:*
+[2020-10-13 14:17:17.311 +08:00] [ONSClient4CPP] [---I---] [thread 25976] Start Consumer instance 0 OK
+[2020-10-22 19:51:17.640 +08:00] [ONSClient4CPP] [---I---] [thread 3776] Create Consumer OK, InstanceId:0, ConsumerID:, NameServer:http://MQ_INST_1429552582856959_BXPshQXg.mq-internet-access.mq-internet.aliyuncs.com:80, Trace:true, MessageModel:CLUSTERING
+[2020-10-22 19:51:17.640 +08:00] [ONSClient4CPP] [---I---] [thread 3776] Subscribe OK, InstanceID:0, Topic:BASE, SubExpression:*
+[2020-10-22 19:51:18.178 +08:00] [ONSClient4CPP] [---I---] [thread 3776] Start Consumer instance 0 OK
+[2020-11-17 16:31:09.867 +08:00] [ONSClient4CPP] [---I---] [thread 2523] Create Consumer OK, InstanceId:0, ConsumerID:, NameServer:http://MQ_INST_1429552582856959_BXPshQXg.mq-internet-access.mq-internet.aliyuncs.com:80, Trace:true, MessageModel:CLUSTERING
+[2020-11-17 16:31:09.867 +08:00] [ONSClient4CPP] [---I---] [thread 2523] Subscribe OK, InstanceID:0, Topic:BASE, SubExpression:*
+[2020-11-17 16:31:10.436 +08:00] [ONSClient4CPP] [---I---] [thread 2523] Start Consumer instance 0 OK
+[2020-11-30 11:04:01.657 +08:00] [ONSClient4CPP] [---I---] [thread 8339] Create Consumer OK, InstanceId:0, ConsumerID:, NameServer:http://MQ_INST_1429552582856959_BXPshQXg.mq-internet-access.mq-internet.aliyuncs.com:80, Trace:true, MessageModel:CLUSTERING
+[2020-11-30 11:04:01.658 +08:00] [ONSClient4CPP] [---I---] [thread 8339] Subscribe OK, InstanceID:0, Topic:BASE, SubExpression:*
+[2020-11-30 11:04:02.217 +08:00] [ONSClient4CPP] [---I---] [thread 8339] Start Consumer instance 0 OK
+[2020-11-30 11:06:09.154 +08:00] [ONSClient4CPP] [---I---] [thread 8488] Create Consumer OK, InstanceId:0, ConsumerID:, NameServer:http://MQ_INST_1429552582856959_BXPshQXg.mq-internet-access.mq-internet.aliyuncs.com:80, Trace:true, MessageModel:CLUSTERING
+[2020-11-30 11:06:09.154 +08:00] [ONSClient4CPP] [---I---] [thread 8488] Subscribe OK, InstanceID:0, Topic:BASE, SubExpression:*
+[2020-11-30 11:06:09.647 +08:00] [ONSClient4CPP] [---I---] [thread 8488] Start Consumer instance 0 OK
+[2020-11-30 11:07:27.111 +08:00] [ONSClient4CPP] [---I---] [thread 8587] Create Consumer OK, InstanceId:0, ConsumerID:, NameServer:http://MQ_INST_1429552582856959_BXPshQXg.mq-internet-access.mq-internet.aliyuncs.com:80, Trace:true, MessageModel:CLUSTERING
+[2020-11-30 11:07:27.111 +08:00] [ONSClient4CPP] [---I---] [thread 8587] Subscribe OK, InstanceID:0, Topic:BASE, SubExpression:*
+[2020-11-30 11:07:27.597 +08:00] [ONSClient4CPP] [---I---] [thread 8587] Start Consumer instance 0 OK
+[2020-11-30 11:10:25.133 +08:00] [ONSClient4CPP] [---I---] [thread 8781] Create Consumer OK, InstanceId:0, ConsumerID:, NameServer:http://MQ_INST_1429552582856959_BXPshQXg.mq-internet-access.mq-internet.aliyuncs.com:80, Trace:true, MessageModel:CLUSTERING
+[2020-11-30 11:10:25.133 +08:00] [ONSClient4CPP] [---I---] [thread 8781] Subscribe OK, InstanceID:0, Topic:BASE, SubExpression:*
+[2020-11-30 11:10:25.712 +08:00] [ONSClient4CPP] [---I---] [thread 8781] Start Consumer instance 0 OK
+[2020-11-30 12:25:02.092 +08:00] [ONSClient4CPP] [---I---] [thread 12515] Create Consumer OK, InstanceId:0, ConsumerID:, NameServer:http://MQ_INST_1429552582856959_BXPshQXg.mq-internet-access.mq-internet.aliyuncs.com:80, Trace:true, MessageModel:CLUSTERING
+[2020-11-30 12:25:02.092 +08:00] [ONSClient4CPP] [---I---] [thread 12515] Subscribe OK, InstanceID:0, Topic:BASE, SubExpression:*
+[2020-11-30 12:25:02.704 +08:00] [ONSClient4CPP] [---I---] [thread 12515] Start Consumer instance 0 OK
+[2020-12-01 11:15:52.242 +08:00] [ONSClient4CPP] [---I---] [thread 15821] Create Consumer OK, InstanceId:0, ConsumerID:, NameServer:http://MQ_INST_1429552582856959_BXPshQXg.mq-internet-access.mq-internet.aliyuncs.com:80, Trace:true, MessageModel:CLUSTERING
+[2020-12-01 11:15:52.242 +08:00] [ONSClient4CPP] [---I---] [thread 15821] Subscribe OK, InstanceID:0, Topic:BASE, SubExpression:*
+[2020-12-01 11:15:52.769 +08:00] [ONSClient4CPP] [---I---] [thread 15821] Start Consumer instance 0 OK
+[2020-12-16 19:00:55.283 +08:00] [ONSClient4CPP] [---I---] [thread 8158] Create Consumer OK, InstanceId:0, ConsumerID:, NameServer:http://MQ_INST_1429552582856959_BXPshQXg.mq-internet-access.mq-internet.aliyuncs.com:80, Trace:true, MessageModel:CLUSTERING
+[2020-12-16 19:00:55.284 +08:00] [ONSClient4CPP] [---I---] [thread 8158] Subscribe OK, InstanceID:0, Topic:BASE, SubExpression:*
+[2020-12-16 19:00:55.792 +08:00] [ONSClient4CPP] [---I---] [thread 8158] Start Consumer instance 0 OK
+[2020-12-18 16:27:17.117 +08:00] [ONSClient4CPP] [---I---] [thread 13862] Create Consumer OK, InstanceId:0, ConsumerID:, NameServer:http://MQ_INST_1429552582856959_BXPshQXg.mq-internet-access.mq-internet.aliyuncs.com:80, Trace:true, MessageModel:CLUSTERING
+[2020-12-18 16:27:17.117 +08:00] [ONSClient4CPP] [---I---] [thread 13862] Subscribe OK, InstanceID:0, Topic:BASE, SubExpression:*
+[2020-12-18 16:27:17.696 +08:00] [ONSClient4CPP] [---I---] [thread 13862] Start Consumer instance 0 OK
+[2020-12-18 16:30:57.939 +08:00] [ONSClient4CPP] [---I---] [thread 14127] Create Consumer OK, InstanceId:0, ConsumerID:, NameServer:http://MQ_INST_1429552582856959_BXPshQXg.mq-internet-access.mq-internet.aliyuncs.com:80, Trace:true, MessageModel:CLUSTERING
+[2020-12-18 16:30:57.939 +08:00] [ONSClient4CPP] [---I---] [thread 14127] Subscribe OK, InstanceID:0, Topic:BASE, SubExpression:*
+[2020-12-18 16:30:58.391 +08:00] [ONSClient4CPP] [---I---] [thread 14127] Start Consumer instance 0 OK
+[2021-01-03 10:59:06.225 +08:00] [ONSClient4CPP] [---I---] [thread 4514] Create Consumer OK, InstanceId:0, ConsumerID:, NameServer:http://MQ_INST_1429552582856959_BXPshQXg.mq-internet-access.mq-internet.aliyuncs.com:80, Trace:true, MessageModel:CLUSTERING
+[2021-01-03 10:59:06.225 +08:00] [ONSClient4CPP] [---I---] [thread 4514] Subscribe OK, InstanceID:0, Topic:BASE, SubExpression:*
+[2021-01-03 10:59:06.903 +08:00] [ONSClient4CPP] [---I---] [thread 4514] Start Consumer instance 0 OK
+[2021-01-04 15:53:49.492 +08:00] [ONSClient4CPP] [---I---] [thread 25676] Create Consumer OK, InstanceId:0, ConsumerID:, NameServer:http://MQ_INST_1429552582856959_BXPshQXg.mq-internet-access.mq-internet.aliyuncs.com:80, Trace:true, MessageModel:CLUSTERING
+[2021-01-04 15:53:49.492 +08:00] [ONSClient4CPP] [---I---] [thread 25676] Subscribe OK, InstanceID:0, Topic:BASE, SubExpression:*
+[2021-01-04 15:53:50.050 +08:00] [ONSClient4CPP] [---I---] [thread 25676] Start Consumer instance 0 OK
+[2021-01-08 10:13:12.707 +08:00] [ONSClient4CPP] [---I---] [thread 2471] Create Consumer OK, InstanceId:0, ConsumerID:, NameServer:http://MQ_INST_1429552582856959_BXPshQXg.mq-internet-access.mq-internet.aliyuncs.com:80, Trace:true, MessageModel:CLUSTERING
+[2021-01-08 10:13:12.707 +08:00] [ONSClient4CPP] [---I---] [thread 2471] Subscribe OK, InstanceID:0, Topic:BASE, SubExpression:*
+[2021-01-08 10:13:13.189 +08:00] [ONSClient4CPP] [---I---] [thread 2471] Start Consumer instance 0 OK
+[2021-01-14 18:33:59.941 +08:00] [ONSClient4CPP] [---I---] [thread 9328] Create Consumer OK, InstanceId:0, ConsumerID:, NameServer:http://MQ_INST_1429552582856959_BXPshQXg.mq-internet-access.mq-internet.aliyuncs.com:80, Trace:true, MessageModel:CLUSTERING
+[2021-01-14 18:33:59.941 +08:00] [ONSClient4CPP] [---I---] [thread 9328] Subscribe OK, InstanceID:0, Topic:BASE, SubExpression:*
+[2021-01-14 18:34:00.436 +08:00] [ONSClient4CPP] [---I---] [thread 9328] Start Consumer instance 0 OK
+[2021-01-29 17:08:35.743 +08:00] [ONSClient4CPP] [---I---] [thread 7147] Create Consumer OK, InstanceId:0, ConsumerID:, NameServer:http://MQ_INST_1429552582856959_BXPshQXg.mq-internet-access.mq-internet.aliyuncs.com:80, Trace:true, MessageModel:CLUSTERING
+[2021-01-29 17:08:35.743 +08:00] [ONSClient4CPP] [---I---] [thread 7147] Subscribe OK, InstanceID:0, Topic:BASE, SubExpression:*
+[2021-01-29 17:08:36.272 +08:00] [ONSClient4CPP] [---I---] [thread 7147] Start Consumer instance 0 OK
+[2021-01-29 17:22:14.043 +08:00] [ONSClient4CPP] [---I---] [thread 7872] Create Consumer OK, InstanceId:0, ConsumerID:, NameServer:http://MQ_INST_1429552582856959_BXPshQXg.mq-internet-access.mq-internet.aliyuncs.com:80, Trace:true, MessageModel:CLUSTERING
+[2021-01-29 17:22:14.043 +08:00] [ONSClient4CPP] [---I---] [thread 7872] Subscribe OK, InstanceID:0, Topic:BASE, SubExpression:*
+[2021-01-29 17:22:14.618 +08:00] [ONSClient4CPP] [---I---] [thread 7872] Start Consumer instance 0 OK
+[2021-01-29 17:47:19.276 +08:00] [ONSClient4CPP] [---I---] [thread 9184] Create Consumer OK, InstanceId:0, ConsumerID:, NameServer:http://MQ_INST_1429552582856959_BXPshQXg.mq-internet-access.mq-internet.aliyuncs.com:80, Trace:true, MessageModel:CLUSTERING
+[2021-01-29 17:47:19.276 +08:00] [ONSClient4CPP] [---I---] [thread 9184] Subscribe OK, InstanceID:0, Topic:BASE, SubExpression:*
+[2021-01-29 17:47:19.802 +08:00] [ONSClient4CPP] [---I---] [thread 9184] Start Consumer instance 0 OK
