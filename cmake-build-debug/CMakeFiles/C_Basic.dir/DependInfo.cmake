@@ -4,11 +4,11 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "D:/WorkProject/C/C_Basic/arraym.c" "D:/WorkProject/C/C_Basic/cmake-build-debug/CMakeFiles/C_Basic.dir/arraym.c.obj"
-  "D:/WorkProject/C/C_Basic/hello.c" "D:/WorkProject/C/C_Basic/cmake-build-debug/CMakeFiles/C_Basic.dir/hello.c.obj"
-  "D:/WorkProject/C/C_Basic/main.c" "D:/WorkProject/C/C_Basic/cmake-build-debug/CMakeFiles/C_Basic.dir/main.c.obj"
+  "D:/workproject/CLionProjects/C_Basic/arraym.c" "D:/workproject/CLionProjects/C_Basic/cmake-build-debug/CMakeFiles/C_Basic.dir/arraym.c.obj"
+  "D:/workproject/CLionProjects/C_Basic/hello.c" "D:/workproject/CLionProjects/C_Basic/cmake-build-debug/CMakeFiles/C_Basic.dir/hello.c.obj"
+  "D:/workproject/CLionProjects/C_Basic/main.c" "D:/workproject/CLionProjects/C_Basic/cmake-build-debug/CMakeFiles/C_Basic.dir/main.c.obj"
   )
-set(CMAKE_C_COMPILER_ID "GNU")
+set(CMAKE_C_COMPILER_ID "MSVC")
 
 # The include file search paths:
 set(CMAKE_C_TARGET_INCLUDE_PATH
