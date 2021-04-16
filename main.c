@@ -3,6 +3,9 @@
 
 #include "arraym.h"
 #include "parray.h"
+#include "structm.h"
+
+
 int test() {
     int a = 5;
     if (a > 0) {
@@ -10,7 +13,6 @@ int test() {
     } else {
         return 0;
     }
-
 }
 
 int main() {
@@ -23,6 +25,9 @@ int main() {
     genArray();*/
 //    数组指针
     pArray();
+
+//    创建结构体
+//    create();
     return 0;
 }
 

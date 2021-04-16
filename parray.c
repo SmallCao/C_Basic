@@ -6,14 +6,15 @@
 #include "stdio.h"
 #include "string.h"
 
-struct {
-
-};
-
 void pArray(){
 //    char b = 'a';
 //    char* bb = "a";
-//    char** bbb[] = {"accc", "bccc"};
+    char* bbb[] = {"acccd", "bcccd","bcccd"};
+    char **c = bbb;
+    printf("c length = %lu\n",sizeof(*c));
+    printf("c[0] = %s\n",*c);
+//    char b = c[1];
+//    printf("%s",b);
 //    printf("%s\n",*bbb);
 //    printf("%s\n",bbb+1);
     int ages[] = {1,2,3,4,5,6};
@@ -27,6 +28,6 @@ void pArray(){
     printf("---------aa");
 
     char a[] = "Cao";
-    printf("char length = %llu\n",sizeof (char));
-    printf("a length = %1d",sizeof (a)/sizeof (char));
+    printf("char length = %lu\n",sizeof (char));
+    printf("a length = %1lu",sizeof (a)/sizeof (char));
 }
