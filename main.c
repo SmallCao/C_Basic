@@ -5,6 +5,7 @@
 #include "parray.h"
 #include "structm.h"
 #include "height.h"
+#include "1_operator_test.h"
 
 int test() {
     int a = 5;
@@ -28,7 +29,9 @@ int main() {
 
 //    创建结构体
 //    create();
-    test_height();
+//    test_height(); //小球掉落测试
+    //测试运算符
+    test_operator_main();
     return 0;
 }
 
