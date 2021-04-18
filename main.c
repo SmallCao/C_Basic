@@ -4,7 +4,7 @@
 #include "arraym.h"
 #include "parray.h"
 #include "structm.h"
-
+#include "height.h"
 
 int test() {
     int a = 5;
@@ -24,10 +24,11 @@ int main() {
 
     genArray();*/
 //    数组指针
-    pArray();
+//    pArray();
 
 //    创建结构体
 //    create();
+    test_height();
     return 0;
 }
 

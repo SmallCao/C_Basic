@@ -17,7 +17,7 @@ struct Person create_person() {
 }
 
 struct Person *create_ptr_person() {
-    struct Person *p = malloc(sizeof(struct Person));
+    struct Person *p =  (sizeof(struct Person));
     p->name = strdup("small");
     p->age = 33;
     p->height = 176;
