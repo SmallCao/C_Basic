@@ -24,14 +24,19 @@ int main() {
     SayHello();
 
     genArray();*/
-//    æ•°ç»„æŒ‡é’ˆ
+//    Êı×éÖ¸Õë
 //    pArray();
 
-//    åˆ›å»ºç»“æ„ä½“
+//    ´´½¨½á¹¹Ìå
 //    create();
-//    test_height(); //å°çƒæ‰è½æµ‹è¯•
-    //æµ‹è¯•è¿ç®—ç¬¦
+//    test_height(); //Ğ¡ÇòµôÂä²âÊÔ
+    //²âÊÔÔËËã·û
     test_operator_main();
+    typedef int S;
+    S a  = 2;
+    int b = 10;
+    int c = a+b;
+    printf("\n%d",c);
     return 0;
 }
 
