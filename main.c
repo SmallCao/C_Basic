@@ -40,9 +40,11 @@ int main() {
     S a = 2;
     int b = 10;
     int c = a + b;
-    printf("\n%d", c);
+    printf("\n%d\n", c);
 
-
+    int age ;
+    scanf("%d\n",&age);
+    printf("%d",age+1);
     return 0;
 }
 
