@@ -6,6 +6,7 @@
 #include "structm.h"
 #include "height.h"
 #include "1_operator_test.h"
+#include "callbackm.h"
 
 int test() {
     int a = 5;
@@ -17,6 +18,9 @@ int test() {
 }
 
 int main() {
+    //回调函数 => 函数指针
+    callback();
+
     /*printf("Hello, World!\n");
     printf_s("123\n");
     int c = test();
@@ -33,10 +37,12 @@ int main() {
     //测试运算符
     test_operator_main();
     typedef int S;
-    S a  = 2;
+    S a = 2;
     int b = 10;
-    int c = a+b;
-    printf("\n%d",c);
+    int c = a + b;
+    printf("\n%d", c);
+
+
     return 0;
 }
 
